@@ -1,2 +1,4 @@
-env
+# ignore these files
+
+env/
 .gitattributes
